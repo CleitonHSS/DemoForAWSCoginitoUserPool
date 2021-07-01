@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+com:
+  kb:
+    jwt:
+      aws:
+        userPoolId: "sa-east-1_Nv2PhQD4Y"
+        region: "sa-east-1"
+        identityPoolId: "4jv7k2h78ucr7c93b74vqpn7u4"
